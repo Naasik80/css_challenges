@@ -1,4 +1,12 @@
-p {
-    font-family: 'Unlock', cursive;
+/* downloaded fonts */
 
+@import url(../fonts/MajorMonoDisplay-Regular.ttf);
+
+/* basic styles */
+
+#par-1 {
+    font-family: 'Unlock', cursive, sans-serif;
+}
+#par-2 {
+    font-family: 'Major Mono Display', monospace, sans-serif;
 }
